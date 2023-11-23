@@ -17,7 +17,7 @@ To run the Streamlit app in Snowsight, make sure you have a Snowflake account wi
 As we plan to use Streamlit integration, the Snowflake account is required to be located in an Amazon Web Services (AWS).
 
 ## Getting Started
-Firstly, upload the `.data/preprocessed_wifi_data.csv` file in Snowsight.
+Firstly, upload the `./data/preprocessed_wifi_data.csv` file in Snowsight.
 Follow these steps: 
 1. Navigate to the “Data” tab on the left in Snowsight
 2. Choose a database or create one
@@ -27,13 +27,13 @@ Follow these steps:
 
 For more detailed information and guidance, refer to the [Snowsight documentation](https://snowflake.community.snowflake.com/s/article/Snowsight-User-Guide).
 
-Secondly, paste the `.app/wifi_on_ice_app.py` in the Snowsight's Python editor
+Secondly, paste the `./app/wifi_on_ice_app.py` in the Snowsight's Python editor
 Follow these steps: 
 1. Navigate to the “Streamlit” tab on the left in Snowsight.
 2. Click on “+ Streamlit App” and provide a name “WIFI on ICE” for the app 
 3. Chose the previous warehouse and app location
 4. Click on “Create”
-5. Paste the content of `.app/wifi_on_ice_app.py` in the Edior
+5. Paste the content of `./app/wifi_on_ice_app.py` in the Edior
 6. Start the app by clicking on "Run"
 
 ## License 
