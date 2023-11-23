@@ -8,9 +8,9 @@ In this blog post, we're getting hands-on. We're building a data app using Strea
 ## Contents
 
 1. **Data**
-   - The `.data/preprocessed_wifi_data.csv` file contains sample data related to Wifi usage on Deutsche Bahn trains. It includes information on averaged data rate consumption per logged-in device for different routes.
+   - The `./data/preprocessed_wifi_data.csv` file contains sample data related to Wifi usage on Deutsche Bahn trains. It includes information on averaged data rate consumption per logged-in device for different routes.
 2. **Script**
-   - The `.app/wifi_on_ice_app.py` script is the main Python script for the Streamlit app. 
+   - The `./app/wifi_on_ice_app.py` script is the main Python script for the Streamlit app. 
 ## Requirements
 
 To run the Streamlit app in Snowsight, make sure you have a Snowflake account with appropriate permissions (CREATE STRAMLIT privilege) 
