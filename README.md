@@ -1,7 +1,7 @@
 # Wifi on ICE
 
 ## Overview
-This is the repo for the blog post [Next Stop: Insights! How Streamlit and Snowflake Power Up Deutsche Bahn Data Adventures](https://www.inovex.de/de/blog/next-stop-insights-how-streamlit-and-snowflake-power-up-deutsche-bahn-data-adventures/).
+This is the repo for [Next Stop: Insights! How Streamlit and Snowflake Power Up Deutsche Bahn Data Adventures](https://www.inovex.de/de/blog/next-stop-insights-how-streamlit-and-snowflake-power-up-deutsche-bahn-data-adventures/).
 
 In this blog post, we're getting hands-on. We're building a data app using Streamlit directly from Snowflake on a dataset of the Deutsche Bahn. So, hold onto your seats – it's time to explore the world of data apps with Deutsche Bahn.
 
